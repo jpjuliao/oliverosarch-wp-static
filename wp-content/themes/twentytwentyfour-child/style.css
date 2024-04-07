@@ -1,0 +1,33 @@
+/*
+Theme Name: Twenty Twenty-Four Child
+Theme URI:  https://jpjuliao.github.com/
+Description: Child theme for Twenty Twenty-Four
+Author: Juan Pablo Juliao
+Author URI:  https://jpjuliao.github.com/
+Template: twentytwentyfour
+Version:     1.0
+License:     GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentytwentyfour-child
+*/
+
+body {
+  font-family: "now_altlight";
+  background-image: url(/oliverosarch-wp-static/wp-content/themes/twentytwentyfour-child/images/page_40_image_1-2048x1500.jpg);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "now_altlight";
+}
+
+a {
+  font-family: "now_altlight";
+}
+
+header .has-base-background-color {
+  background: none !important;
+}
